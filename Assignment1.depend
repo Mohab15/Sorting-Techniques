@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1621071510 source:d:\downloads\applications\codeblocks\projects\assignment1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<math.h>
+
+1621106176 source:d:\downloads\personal\education\data structures ii\assignments\assignment1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<math.h>
+
